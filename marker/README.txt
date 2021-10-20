@@ -1,0 +1,1 @@
+https://github.com/AR-js-org/AR.js/issues/138
